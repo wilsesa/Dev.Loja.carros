@@ -18,6 +18,7 @@ namespace Dev.Loja.carros.Models
 
         [Required]
         public int Ano { get; set; }
+
         public string LinkImg { get; set; }
 
         public Carro()
